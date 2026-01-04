@@ -1,0 +1,40 @@
+export const skills = [
+  // Language & Tools
+  { name: "Python", icon: "/icons/python.svg" },
+  { name: "MySQL", icon: "/icons/mysql.svg" },
+  { name: "Java", icon: "/icons/java.svg" },
+  { name: "FastAPI", icon: "/icons/fastapi.svg" },
+  { name: "REST APIs", icon: "/icons/rest.png" },
+  { name: "Excel", icon: "/icons/excel.svg" },
+  { name: "Tableau", icon: "/icons/tableau.svg" },
+  { name: "Jupyter", icon: "/icons/jupyter.svg" },
+  { name: "Git", icon: "/icons/git.svg" },
+  { name: "Bash", icon: "/icons/bash.svg" },
+  { name: "CI/CD", icon: "/icons/cicd.svg" },
+
+  // Machine Learning & Statistics
+  { name: "Scikit-learn", icon: "/icons/scikit-learn.svg" },
+  { name: "PyTorch", icon: "/icons/pytorch.svg" },
+  { name: "TensorFlow", icon: "/icons/tensorflow.svg" },
+  { name: "LangChain", icon: "/icons/langchain.svg" },
+  { name: "Multi-Agent Orchestration", icon: "/icons/agents.png" },
+  { name: "RAG Pipelines", icon: "/icons/rag.svg" },
+  { name: "Pinecone", icon: "/icons/pinecone.svg" },
+  { name: "GPT-4", icon: "/icons/gpt.png" },
+  { name: "NLP", icon: "/icons/nlp.png" },
+  { name: "Pandas", icon: "/icons/pandas.png" },
+  { name: "NumPy", icon: "/icons/numpy.svg" },
+  { name: "Matplotlib", icon: "/icons/matplotlib.png" },
+  { name: "Seaborn", icon: "/icons/seaborn.svg" },
+
+  // Data Engineering & Cloud
+  { name: "AWS", icon: "/icons/aws.svg" },
+  { name: "S3", icon: "/icons/s3.svg" },
+  { name: "EC2", icon: "/icons/EC2.svg" },
+  { name: "RDS", icon: "/icons/RDS.svg" },
+  { name: "Apache Spark", icon: "/icons/spark.png" },
+  { name: "Apache Kafka", icon: "/icons/kafka.svg" },
+  { name: "MongoDB", icon: "/icons/mongodb.svg" },
+  { name: "Docker", icon: "/icons/docker.svg" },
+  { name: "MLflow", icon: "/icons/mlflow.svg" },
+];
